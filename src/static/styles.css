@@ -80,15 +80,21 @@ section h3 {
   list-style-type: disc;
   color: #555;
   font-size: 14px; /* Ajuste de tamanho para melhor legibilidade */
+  background-color: #f9f9f9; /* Fundo para destacar a lista */
+  border: 1px solid #ddd; /* Borda para separar visualmente */
+  border-radius: 4px; /* Bordas arredondadas */
+  padding: 10px; /* Espaçamento interno */
 }
 
 .activity-card ul li {
   margin-bottom: 5px;
   line-height: 1.4; /* Melhor espaçamento entre linhas */
+  font-weight: 500; /* Peso da fonte para melhor visibilidade */
 }
 
 .activity-card p strong {
   color: #333; /* Destaque para os títulos das seções */
+  font-weight: bold; /* Negrito para maior ênfase */
 }
 
 .form-group {
