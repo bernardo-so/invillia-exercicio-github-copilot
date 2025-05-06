@@ -74,6 +74,16 @@ section h3 {
   margin-bottom: 8px;
 }
 
+/* Remova o estilo da lista de participantes */
+.activity-card ul {
+  display: none;
+}
+
+.activity-card ul li {
+  margin-bottom: 5px;
+  color: #333; /* Ajusta a cor para garantir visibilidade */
+}
+
 .form-group {
   margin-bottom: 15px;
 }
